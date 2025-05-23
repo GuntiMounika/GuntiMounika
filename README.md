@@ -8,7 +8,7 @@ Skills & Interests
 
 Programming Languages: Java, Python (Basics), HTML, CSS
 
-Frameworks/Tools: Spring Boot, Git, GitHub, Postman, MySQL Workbench
+Frameworks/Tools:  Git, GitHub, MySQL 
 
 Databases: MySQL
 
@@ -47,18 +47,5 @@ LinkedIn: linkedin.com/in/guntimounika
 GitHub: github.com/GuntiMounika
 
 Feedback Welcome
-I’m always eager to learn and grow as a developer. Feedback, suggestions, or collaboration ideas are more than welcome—feel free to reach out!
+I’m always eager to learn and grow as a developer.
 
-
-
-
-
-
-
-
-
-
-<!---
-GuntiMounika/GuntiMounika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
